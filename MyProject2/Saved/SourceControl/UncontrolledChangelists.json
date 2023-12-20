@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/GoodLife/Desktop/ArrowGame/MyProject2/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/GoodLife/Desktop/ArrowGame/MyProject2/Content/Blueprints/BP_GameModeBase.uasset",
+				"C:/Users/GoodLife/Desktop/ArrowGame/MyProject2/Content/Animations/ABP_Player.uasset",
+				"C:/Users/GoodLife/Desktop/ArrowGame/MyProject2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/GoodLife/Desktop/ArrowGame/MyProject2/Content/Animations/NewBlendSpace1D.uasset",
+				"C:/Users/GoodLife/Desktop/ArrowGame/MyProject2/Content/UI/aim2.uasset",
+				"C:/Users/GoodLife/Desktop/ArrowGame/MyProject2/Content/UI/Daco_1513229.uasset",
+				"C:/Users/GoodLife/Desktop/ArrowGame/MyProject2/Content/UI/WBP_AimMark.uasset",
+				"C:/Users/GoodLife/Desktop/ArrowGame/MyProject2/Content/UI/aim.uasset",
+				"C:/Users/GoodLife/Desktop/ArrowGame/MyProject2/Content/ThirdPerson/Blueprints/BP_Player.uasset"
+			]
+		}
+	]
+}
